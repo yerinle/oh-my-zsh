@@ -1,0 +1,3 @@
+[submodule "plugins/gvm"]
+	path = plugins/gvm
+	url = https://github.com/yerinle/zsh-gvm.git
